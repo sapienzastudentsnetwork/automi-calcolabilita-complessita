@@ -1,31 +1,22 @@
+<div align="center">
+
 # Automi, Calcolabilità e Complessità
 
-## 👋 Introduzione
+</div>
 
-ℹ️ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ad Esercizi di Automi, Calcolabilità e Complessità assegnati, a lezione e nei testi d'esame, dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
-
-💬 Nel forum realizzato attraverso questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
+> [!Note]
+>  Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ad Esercizi di [Automi](../../discussions?discussions_q=category%3Aautomi), [Calcolabilità](../../discussions?discussions_q=category%3Acalcolabilità) e [Complessità](../../discussions?discussions_q=category%3Acomplessità) assegnati, a lezione e nei testi d'esame, dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
+>
+>💬 Nel forum realizzato attraverso questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
 
 > [!Warning]
 > Questo forum è gestito e contribuito da studenti e, in quanto tale, non è ufficiale e non sostituisce né intende sostituire le fonti ufficiali!
-
-## 🗃 Risorse utili
-
-- [**Sito del corso (Prof. Venturi)**](https://dventuri83.github.io/projects/3_acc/) » contiene le informazioni del corso, il programma e il diario delle lezioni
-
-## 🔗 Collegamenti rapidi
-
-#### Filtri per Argomento
-
-1. [Automi](../../discussions?discussions_q=category%3Aautomi)
-2. [Calcolabilità](../../discussions?discussions_q=category%3Acalcolabilità)
-3. [Complessità](../../discussions?discussions_q=category%3Acomplessità)
 
 <div align="center">
 
 <table align="center">
     <tr>
-        <td colspan="2" align="center">
+        <td colspan="3" align="center">
             <h3> Esami precedenti (prof. Venturi) </h3>
         </td>
     </tr>
@@ -47,12 +38,12 @@
                 <tr>
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;5+giugno+2023&quot;"> 5 giugno </a></td>
                 </tr>
-				        <tr>
-					        <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;6+luglio+2023&quot;"> 6 luglio </a></td>
-				        </tr>
-                 <tr>
-					        <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;6+settembre+2023&quot;"> 6 settembre </a></td>
-				        </tr>
+		<tr>
+		     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;6+luglio+2023&quot;"> 6 luglio </a></td>
+		</tr>
+                <tr>
+		     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;6+settembre+2023&quot;"> 6 settembre </a></td>
+		</tr>
             </table>
         </td>
         <td align="center">
@@ -76,8 +67,33 @@
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;3+luglio+2024&quot;"> 3 luglio </a></td>
                 </tr>
                 <tr>
-					          <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;11+settembre+2024&quot;"> 11 settembre </a></td>
-        			  </tr>
+		    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;11+settembre+2024&quot;"> 11 settembre </a></td>
+        	</tr>
+            </table>
+        </td>
+        <td align="center">
+            <table>
+                <tr>
+                    <td align="center">2025</td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;14+gennaio+2025&quot;"> 14 gennaio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a> 4 febbraio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a> --- </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a> 10 giugno </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a> 15 luglio </a></td>
+                </tr>
+                <tr>
+		    <td align="center"><a> 9 settembre </a></td>
+        	</tr>
             </table>
         </td>
     </tr>
