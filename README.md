@@ -17,7 +17,7 @@
 <table align="center">
     <tr>
         <td colspan="3" align="center">
-            <h3> Esami precedenti (prof. Venturi) </h3>
+            <h3> Esami precedenti (prof. Daniele Venturi) </h3>
         </td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;14+gennaio+2025&quot;"> 14 gennaio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a> 4 febbraio </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;4+febbraio+2025&quot;"> 4 febbraio </a></td>
                 </tr>
                 <tr>
                     <td align="center"><a> --- </a></td>
