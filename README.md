@@ -83,7 +83,7 @@
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;4+febbraio+2025&quot;"> 4 febbraio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a> --- </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=is%3Aopen+label%3A%224+aprile+2025%22+label%3A%22venturi%22+"> 4 aprile </a></td>
                 </tr>
                 <tr>
                     <td align="center"><a> 10 giugno </a></td>
