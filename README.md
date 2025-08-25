@@ -89,7 +89,7 @@
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;10+giugno+2025&quot;"> 10 giugno </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a> 15 luglio </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;15+luglio+2025&quot;"> 15 luglio </a></td>
                 </tr>
                 <tr>
 		    <td align="center"><a> 9 settembre </a></td>
