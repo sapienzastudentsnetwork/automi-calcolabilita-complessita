@@ -67,8 +67,8 @@
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;3+luglio+2024&quot;"> 3 luglio </a></td>
                 </tr>
                 <tr>
-		    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;11+settembre+2024&quot;"> 11 settembre </a></td>
-        	</tr>
+		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;11+settembre+2024&quot;"> 11 settembre </a></td>
+        		</tr>
             </table>
         </td>
         <td align="center">
@@ -92,8 +92,8 @@
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;15+luglio+2025&quot;"> 15 luglio </a></td>
                 </tr>
                 <tr>
-		    <td align="center"><a> 9 settembre </a></td>
-        	</tr>
+		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;9+settembre+2025&quot;"> 9 settembre </a></td>
+        		</tr>
             </table>
         </td>
     </tr>
