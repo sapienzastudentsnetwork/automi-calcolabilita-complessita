@@ -16,7 +16,7 @@
 
 <table align="center">
     <tr>
-        <td colspan="3" align="center">
+        <td colspan="4" align="center">
             <h3> Esami precedenti (prof. Daniele Venturi) </h3>
         </td>
     </tr>
