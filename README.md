@@ -38,12 +38,15 @@
                 <tr>
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;5+giugno+2023&quot;"> 5 giugno </a></td>
                 </tr>
-		<tr>
-		     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;6+luglio+2023&quot;"> 6 luglio </a></td>
-		</tr>
+				<tr>
+		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;6+luglio+2023&quot;"> 6 luglio </a></td>
+				</tr>
                 <tr>
-		     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;6+settembre+2023&quot;"> 6 settembre </a></td>
-		</tr>
+				     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;6+settembre+2023&quot;"> 6 settembre </a></td>
+				</tr>
+                <tr>
+		    		<td align="center"> ?? novembre </a></td>
+        		</tr>
             </table>
         </td>
         <td align="center">
@@ -68,6 +71,9 @@
                 </tr>
                 <tr>
 		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;11+settembre+2024&quot;"> 11 settembre </a></td>
+        		</tr>
+                <tr>
+		    		<td align="center"> ?? novembre </a></td>
         		</tr>
             </table>
         </td>
@@ -94,6 +100,9 @@
                 <tr>
 		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;9+settembre+2025&quot;"> 9 settembre </a></td>
         		</tr>
+                <tr>
+		    		<td align="center"><a href="../../discussions?discussions_q=label%3A&quot;5+novembre+2025&quot;"> 5 novembre </a></td>
+        		</tr>
             </table>
         </td>
 		 <td align="center">
@@ -118,6 +127,9 @@
                 </tr>
                 <tr>
 		    		<td align="center"> ?? settembre </a></td>
+        		</tr>
+                <tr>
+		    		<td align="center"> ?? novembre </a></td>
         		</tr>
             </table>
         </td>
