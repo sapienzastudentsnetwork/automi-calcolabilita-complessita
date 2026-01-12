@@ -111,7 +111,7 @@
                     <td align="center">2026</td>
                 </tr>
                 <tr>
-                    <td align="center"> ?? gennaio </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;11+gennaio+2026&quot;"> 11 gennaio </a></td>
                 </tr>
                 <tr>
                     <td align="center">?? febbraio </a></td>
