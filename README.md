@@ -117,7 +117,7 @@
                     <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;9+febbraio+2026&quot;"> 9 febbraio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"> ?? aprile </a></td>
+                    <td align="center"><a href="../../discussions?discussions_q=label%3A&quot;31+marzo+2026&quot;"> 31 marzo </a></td>
                 </tr>
                 <tr>
                     <td align="center"> ?? giugno </a></td>
